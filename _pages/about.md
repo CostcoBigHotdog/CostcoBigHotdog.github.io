@@ -8,9 +8,6 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
- # more_info: >
-    <p>xshi12@ualberta.ca</p>
-    <p>Edmonton, AB 12345</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
