@@ -60,7 +60,7 @@
     {
       "title": "Provincial First Prize",
       "date": "2021",
-      "awarder": "University Students’ Opt-Sci-Tech Competition, provincial first prize"
+      "awarder": "University Students’ Opt-Sci-Tech Competition, provincial first prize",
       "summary": "Developed a mobile application using the principle of infrared diffuse reflection to non-destructively measure the apple Brix level. Won the first prize at the provincial level."
     }
   ],
@@ -91,7 +91,7 @@
         "Code Composer Studio", 
         "Altium Designer", 
         "NI Multisim",
-        "PLECS", 
+        "PLECS"
       ]
     }
   ],
