@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MSc student</a>.Software Engineering.University of Alberta
+subtitle: <a href='#'>MSc student </a><br>Software Engineering, University of Alberta
 
 profile:
   align: left
