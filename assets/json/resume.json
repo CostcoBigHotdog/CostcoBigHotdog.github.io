@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Xinyu Shi",
-    "label": "Current MSc student",
+    "label": "MSc student in Software Engineering",
     "image": "",
     "email": "xshi12@ualberta.ca",
     "phone": "",
-    "url": "https://costcobighotdog.github.io/al-folio/",
+    "url": "https://costcobighotdog.github.io/",
     "summary": "",
     "location": {
       "address": "2712 Broadway St",
@@ -24,12 +24,13 @@
   },
   "work": [
     {
-      "name": "Sinexcel Electric Co., Ltd, Shenzhen, China",
+      "name": "Sinexcel Electric Co., Ltd",
       "position": "DSP Software Engineer",
+      "location": "Shenzhen, China",
       "url": "https://example.com",
       "startDate": " 2023-07",
       "endDate": "2023-12",
-      "summary": "Worked on DSP software development and optimization for charging modules of EV charging piles",
+      "summary": "Worked on DSP software development and optimization for charging modules of EV charging piles.",
       "highlights": [ 
         "Maintained and optimized PFC-side code for 1000V/20kW and 1000V/40kW charging modules, improving system stability and functionality.",
         "Led the migration of PFC-side code to a new chip, integrating CLA code to enhance performance and control precision."
@@ -47,14 +48,25 @@
       "studyType": "Master of Science(thesis-based)",
       "startDate": "2024-01",
       "endDate": "present",
-      "score": "3.9",
-      "courses": [""]
+      "score": "3.9/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "location": "Harbin, China",
+      "url": "https://www.uzh.ch/",
+      "area": "Electrical Engineering and Automation",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "score": "86.43/100",
+      "courses": []
     }
   ],
   "awards": [
     {
       "title": "Outstanding Student",
-      "date": "2020 - 2021",
+      "date": "2021",
       "summary": "Top 20%"
     },
     {
@@ -103,7 +115,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "ILETS 7.0",
       "icon": ""
     }
   ],
